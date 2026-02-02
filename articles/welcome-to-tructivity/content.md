@@ -1,5 +1,5 @@
 ---
-title: Welcome to Tructivity: A New Era of Focus
+title: "Welcome to Tructivity: A New Era of Focus"
 date: Feb 2, 2026
 category: Productivity
 ---
