@@ -1,3 +1,9 @@
+---
+title: Welcome to Tructivity: A New Era of Focus
+date: Feb 2, 2026
+category: Productivity
+---
+
 # Welcome to Tructivity: A New Era of Focus
 
 Welcome to our very first blog post! At **Tructivity**, we believe that productivity shouldn't be about doing more things, but about doing the *right* things with total mental peace.
