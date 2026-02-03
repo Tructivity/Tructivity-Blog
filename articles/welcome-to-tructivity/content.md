@@ -7,8 +7,6 @@ author: "Abdelhakim Ouafi"
 
 <div class="prose lg:prose-xl dark:prose-invert">
 
-# Data-Driven Productivity: How Structural Flexibility Beats Digital Burnout
-
 > Why I Built Tructivity: A Lifelong Companion for Students, Professionals, and Parents.
 
 ---
