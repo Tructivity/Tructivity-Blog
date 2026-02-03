@@ -21,7 +21,7 @@ The uncomfortable truth that many of us may not have noticed is that most produc
 
 ## The language of numbers reveals the hidden cost of app fragmentation
 
-Before discussing the solution, let us first understand the problem from a scientific and statistical perspective. According to the Workgeist ’21 report issued by Qatalog in collaboration with Cornell University [Workgeist ’21 report] (https://cdn.web.clickup.com/assets/reports/qatalog-2021-workgeist-report.pdf), the reality of digital work is shocking:
+Before discussing the solution, let us first understand the problem from a scientific and statistical perspective. According to the Workgeist ’21 report issued by Qatalog in collaboration with Cornell University [Workgeist ’21 report](https://cdn.web.clickup.com/assets/reports/qatalog-2021-workgeist-report.pdf), the reality of digital work is shocking:
 
 - **45%** of people feel that switching between different applications makes them less productive.
 - **43%** report experiencing mental fatigue resulting from constant navigation between digital tools.
