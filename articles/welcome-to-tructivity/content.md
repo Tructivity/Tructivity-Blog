@@ -13,23 +13,6 @@ author: "Abdelhakim Ouafi"
 
 ---
 
-## Table of contents
-
-- [Introduction](#introduction)  
-- [The language of numbers reveals the hidden cost of app fragmentation](#the-language-of-numbers-reveals-the-hidden-cost-of-app-fragmentation)  
-- [What is Tructivity? More than just an app — it is an ecosystem](#what-is-tructivity)  
-- [A Personalized Experience for Every Need: How Do You Use Tructivity?](#a-personalized-experience-for-every-need-how-do-you-use-tructivity)  
-  - [1. For Individuals and Professionals: Professional Focus. Zero Noise](#1-for-individuals-and-professionals-professional-focus-zero-noise)  
-  - [2. For Students: Comprehensive Academic Mastery](#2-for-students-comprehensive-academic-mastery)  
-  - [3. For Parents: Dual Management and Intelligent Family Oversight](#3-for-parents-dual-management-and-intelligent-family-oversight)  
-- [Explore Tructivity Modules: You Set the Rules](#explore-tructivity-modules-you-set-the-rules)  
-- [Why Is Tructivity Your Best Investment in Productivity?](#why-is-tructivity-your-best-investment-in-productivity)  
-- [Available Now… and Everywhere Soon](#available-now-and-everywhere-soon)  
-- [Download](#download)  
-- [Final Thoughts](#final-thoughts)
-
----
-
 ## Introduction
 
 In today’s digital world, we are constantly immersed in applications. One app for managing tasks in our professional lives, another for university studies, and yet another for organizing children’s affairs during parenthood. But have you ever asked yourself: why do we still feel overwhelmed despite having all these tools?
