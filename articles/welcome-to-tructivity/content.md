@@ -23,7 +23,7 @@ The uncomfortable truth that many of us may not have noticed is that most produc
 
 ## The language of numbers reveals the hidden cost of app fragmentation
 
-Before discussing the solution, let us first understand the problem from a scientific and statistical perspective. According to the Workgeist ’21 report issued by Qatalog in collaboration with Cornell University (Workgeist ’21 report: https://cdn.web.clickup.com/assets/reports/qatalog-2021-workgeist-report.pdf), the reality of digital work is shocking:
+Before discussing the solution, let us first understand the problem from a scientific and statistical perspective. According to the Workgeist ’21 report issued by Qatalog in collaboration with Cornell University [Workgeist ’21 report] (https://cdn.web.clickup.com/assets/reports/qatalog-2021-workgeist-report.pdf), the reality of digital work is shocking:
 
 - **45%** of people feel that switching between different applications makes them less productive.
 - **43%** report experiencing mental fatigue resulting from constant navigation between digital tools.
@@ -109,13 +109,3 @@ Tructivity is currently available for Android users on [Google Play](https://pla
 Tructivity is not just an app for students, and it is not designed only for parents. It is the productivity app that truly understands you — and adapts to the reality of your life, not the limitations of other productivity softwares.
 
 </div>
-
-do I need to add these things above:
-
----
-title: "Welcome to Tructivity: A New Era of Focus"
-date: Feb 2, 2026
-category: Productivity
----
-
-where exactly? give me the new text of that part only if it is mandatory?
