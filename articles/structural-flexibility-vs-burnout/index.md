@@ -45,15 +45,15 @@ Tructivity was designed to be the only tool you need, regardless of the role you
 
 ### 1. For Individuals and Professionals: Professional Focus. Zero Noise
 
-Stop jumping between task apps and overcrowded calendars. Tructivity integrates your professional workflow into a single, flexible system built around two core modules: Tasks and Events.
+Tructivity integrates your professional workflow into a single, flexible system built around two core modules: Tasks and Events.
 
-A noise-free environment: Thanks to the Module Hiding feature, you can hide all academic sections you do not need in your professional journey. This keeps your interface clean, professional, and focused solely on your career goals and personal projects.
+A noise-free environment: Thanks to the Page Settings feature, you can hide all academic sections you do not need in your professional journey. This keeps your interface clean, professional, and focused solely on your career goals and personal projects.
 
 ---
 
 ### 2. For Students: Comprehensive Academic Mastery
 
-For students, Tructivity transforms from a simple task app into a fully integrated academic assistant that manages every detail of your study life in one place:
+For students, Tructivity transforms from a simple task app into a fully integrated academic assistant that manages every detail of your study life in one place alongside using the core two modules Tasks & Events. It offers you:
 
 - **Academic organization:** Use dedicated modules (such as Homeworks, Schedule, Grades, and Timetable) to manage your academic journey.
 - **Pomodoro focus integration:** Tructivity allows you to activate the built-in Pomodoro timer directly from within the Homeworks using a long press on the created entry. This technical integration helps you start a study session instantly and maintain focus without ever leaving the app.
@@ -62,11 +62,10 @@ For students, Tructivity transforms from a simple task app into a fully integrat
 
 ### 3. For Parents: Dual Management and Intelligent Family Oversight
 
-This is where the true power of Tructivity’s flexibility becomes evident. It allows parents to manage two completely different “worlds” within a single, logical interface — without overlap:
+This is where the true power of Tructivity’s flexibility becomes evident. It allows parents to manage two completely different “worlds” within a single, logical interface — without overlap the same as students:
 
 - **Separation of responsibilities:** Parents can rely on the core modules (Tasks and Events) to manage their own professional and personal lives.
 - **Child monitoring:** At the same time, they can use the academic modules to follow their children’s school affairs, such as tracking homework, and exam schedules.
-- **Bird’s-eye view:** Instead of scattering data across multiple platforms and organizational tools, Tructivity provides a unified, centralized view of all family responsibilities. This ensures full visibility into your children’s academic journey while managing your own work seamlessly — without conflict or compromise.
 
 ---
 
@@ -77,7 +76,7 @@ Tructivity gives you complete control over what you see. Through Page Settings, 
 **Core modules (for everyone):**
 
 - Tasks
-- Events (full support for recurring tasks)
+- Events
 
 **Specialized modules (for students and parents):**
 
@@ -87,23 +86,19 @@ Tructivity gives you complete control over what you see. Through Page Settings, 
 - *Subjects & Teachers* — A database for organizing contact information and academic content.
 - *Grades & Absences* — A precise tracking system for analyzing academic performance.
 
+**Note:** Tasks, Events, and Homeworks modules supports recurring entries.
+
 ---
 
 ## Why Is Tructivity Your Best Investment in Productivity?
 
 - **A future-proof system:** You will never need to leave Tructivity. It evolves with you — from the classroom, to the meeting room, and all the way through the journey of parenthood.
-- **Unlimited adaptability:** You set the rules, and the app executes them with complete flexibility to serve your goals.
+- **Unlimited adaptability:** You set the rules of what you show and hide, and the app executes them offering you the complete flexibility to serve your goals.
 
 ---
 
 ## Available Now… and Everywhere Soon
 
 Tructivity is currently available for Android users on [Google Play](https://play.google.com/store/apps/details?id=productivity.tructivity.tructivity). Because we strongly believe in a cross-platform experience, we are actively working on a Windows release coming very soon. macOS and iPhone versions will follow, completing your unified productivity ecosystem.
-
----
-
-## Final Thoughts
-
-Tructivity is not just an app for students, and it is not designed only for parents. It is the productivity app that truly understands you — and adapts to the reality of your life, not the limitations of other productivity softwares.
 
 </div>
