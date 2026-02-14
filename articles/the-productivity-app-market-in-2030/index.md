@@ -1,6 +1,11 @@
-<div class="prose lg:prose-xl dark:prose-invert">
+---
+title: "The Productivity App Market in 2030: Why Is Tructivity Betting on the $18 Billion Segment?"
+date: "2026-02-14"
+category: "Inspiration"
+author: "Abdelhakim Ouafi"
+---
 
-# The Productivity App Market in 2030: Why Is Tructivity Betting on the $18 Billion Segment?
+<div class="prose lg:prose-xl dark:prose-invert">
 
 > Beyond the 8.63% annual growth; discover how Tructivity solves the personal tool fragmentation dilemma to drive massive Lifetime Value (LTV) in the emerging B2C digital market.
 
