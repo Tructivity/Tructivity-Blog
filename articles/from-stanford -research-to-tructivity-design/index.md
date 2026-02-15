@@ -7,7 +7,7 @@ author: "Abdelhakim Ouafi"
 
 <div class="prose lg:prose-xl dark:prose-invert">
 
-> Stop being a "Systems Engineer" for your personal life. Discover the "Smart Home" philosophy that shields you from the false dopamine trap and ensures transgenerational continuity
+> Stop being a "Systems Engineer" for your personal life. Discover the "Smart Home" philosophy that shields you from the false dopamine trap and ensures transgenerational continuity.
 
 ---
 
