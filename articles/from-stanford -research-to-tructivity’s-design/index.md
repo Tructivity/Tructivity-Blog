@@ -1,5 +1,5 @@
 ---
-title: "From Stanford Research to Tructivity’s Design: Ending the "Productive Procrastination" Trap of Modern Tooling"
+title: "From Stanford Research to Tructivity’s Design: Ending the Productive Procrastination Trap of Modern Tooling"
 date: "2026-02-15"
 category: "Productivity"
 author: "Abdelhakim Ouafi"
