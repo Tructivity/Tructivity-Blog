@@ -23,7 +23,9 @@ In this article, we will explore the history of the technique, how it works, its
 
 ## History of the Pomodoro Technique: From a Kitchen Timer to a Global Productivity Philosophy
 
-The origins of the Pomodoro Technique date back to the late 1980s, when Francesco Cirillo, an Italian university student, was struggling with fatigue and procrastination during his studies. In an attempt to overcome this, he used a tomato-shaped kitchen timer (“pomodoro” in Italian) to divide his study sessions into short intervals. The experiment proved successful, eventually forming the foundation of his book The Pomodoro Technique, published in 2006, after which the method spread globally as one of the most recognized time-management approaches.
+The origins of the Pomodoro Technique date back to the late 1980s, when Francesco Cirillo, an Italian university student, was struggling with fatigue and procrastination during his studies. In an attempt to overcome this, he used a tomato-shaped kitchen timer (“pomodoro” in Italian) to divide his study sessions into short intervals.
+
+The experiment proved successful, eventually forming the foundation of his book The Pomodoro Technique, published in 2006, after which the method spread globally as one of the most recognized time-management approaches.
 
 The technique serves as an effective tool for combating procrastination through the “small start” strategy. In simple terms, it involves tricking your brain into beginning a task it perceives as difficult or tedious by convincing it that you will work on it for only 25 minutes.
 
