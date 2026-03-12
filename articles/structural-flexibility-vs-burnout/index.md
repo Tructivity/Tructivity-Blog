@@ -7,7 +7,7 @@ author: "Abdelhakim Ouafi"
 
 <div class="prose lg:prose-xl dark:prose-invert">
 
-> Why I Built Tructivity: A Lifelong Companion for Students, Professionals, and Parents.
+> Why I Built Tructivity: Your Academic Companion for Every Stage of Student Life
 
 ---
 
@@ -15,90 +15,61 @@ author: "Abdelhakim Ouafi"
 
 In today’s digital world, we are constantly immersed in applications. One app for managing tasks in our professional lives, another for university studies, and yet another for organizing children’s affairs during parenthood. But have you ever asked yourself: why do we still feel overwhelmed despite having all these tools?
 
-The uncomfortable truth that many of us may not have noticed is that most productivity applications are designed for only one stage of life. They are rigid tools in a dynamic world. When your responsibilities change — from student to employee, or from individual to parent — you are usually forced to search for an entirely new system, or perhaps rely on multiple applications at once.
+Most productivity apps are built for a single type of user, like professionals or casual planners, making them rigid and fragmented. Students, in particular, often juggle multiple tools for homework, schedules, and Pomodoro timer—wasting time switching between apps instead of focusing on studying.
 
 ---
 
-## The language of numbers reveals the hidden cost of app fragmentation
+## The Language of Numbers: Revealing the Hidden Cost of App Fragmentation
 
 Before discussing the solution, let us first understand the problem from a scientific and statistical perspective. According to the [Workgeist ’21 report](https://cdn.web.clickup.com/assets/reports/qatalog-2021-workgeist-report.pdf) issued by Qatalog in collaboration with Cornell University , the reality of digital work is shocking:
 
-- **45%** of people feel that switching between different applications makes them less productive.
-- **43%** report experiencing mental fatigue resulting from constant navigation between digital tools.
-- **9.5 minutes** is the average time it takes for a person to return to a state of deep focus after switching between two applications.
-- **56%** find it extremely difficult to track their information when it is scattered across multiple platforms.
+- **45%** of people feel that switching between different applications makes them less productive.  
+- **43%** report experiencing mental fatigue resulting from constant navigation between digital tools.  
+- **9.5 minutes** is the average time it takes for a person to return to a state of deep focus after switching between two applications.  
+- **56%** find it extremely difficult to track their information when it is scattered across multiple platforms.  
 
-This is what we call the Context-Switching Cost. Tructivity, the application I designed, was built specifically to eliminate this cost.
-
----
-
-<a id="what-is-tructivity"></a>
-## What is Tructivity? More than just an app — it is an ecosystem
-
-Tructivity is not just a task planner; it is an innovative ecosystem designed to be your lifelong companion. The app is built on the principle of Structural Flexibility, meaning you can adapt it to different stages of your life and align it with your current needs — without ever having to change your system.
+This is what we call the **Context-Switching Cost**. Tructivity, the application I designed, was built specifically to eliminate this cost.
 
 ---
 
-## A Personalized Experience for Every Need: How Do You Use Tructivity?
+## What is Tructivity? More Than Just an App — A Student-Focused Ecosystem
 
-Tructivity was designed to be the only tool you need, regardless of the role you play in your daily life. Here is how the system adapts to your world:
+Tructivity is a fully integrated academic assistant built on the principle of **Structural Flexibility**. Students can adapt it to their changing study needs, from homework to exams and schedules, without ever having to switch to a new tool.
 
-### 1. For Individuals and Professionals: Professional Focus. Zero Noise
+### A Flexible Academic Assistant for Students
 
-Tructivity integrates your professional workflow into a single, flexible system built around two core modules: Tasks and Events.
+Tructivity is a fully integrated academic platform built for every stage of student life, centralizing study-related tasks in one flexible workspace.  
 
-A noise-free environment: Thanks to the Page Settings feature, you can hide all academic sections you do not need in your professional journey. This keeps your interface clean, professional, and focused solely on your career goals and personal projects.
+Students can organize homework, schedules, timetables, grades, and more, all while keeping their daily tasks in a simple, uncluttered To-Do List. With Tructivity, you can:
 
----
-
-### 2. For Students: Comprehensive Academic Mastery
-
-For students, Tructivity transforms from a simple task app into a fully integrated academic assistant that manages every detail of your study life in one place alongside using the core two modules Tasks & Events. It offers you:
-
-- **Academic organization:** Use dedicated modules (such as Homeworks, Schedule, Grades, and Timetable) to manage your academic journey.
-- **Pomodoro focus integration:** Tructivity allows you to activate the built-in Pomodoro timer directly from within the Homeworks using a long press on the created entry. This technical integration helps you start a study session instantly and maintain focus without ever leaving the app.
+- **Academic organization**: Use dedicated modules for Homeworks, Schedule, Grades, and Timetable.  
+- **Pomodoro focus integration**: Activate the built-in Pomodoro timer directly from homework entries to enter deep focus mode instantly—no switching between apps.  
+- **AI-assisted task creation**: Press and hold to convert plain text instructions into structured, recurring tasks, events, and homework.  
+- **Weekly overview & performance tracking**: Visualize your week at a glance, and record grades to monitor academic performance across all subjects.
 
 ---
 
-### 3. For Parents: Dual Management and Intelligent Family Oversight
+## AI-Assisted Task, Event, and Homework Creation
 
-This is where the true power of Tructivity’s flexibility becomes evident. It allows parents to manage two completely different “worlds” within a single, logical interface — without overlap the same as students:
+Tructivity lets you quickly create structured entries using natural language. On any page—Tasks, Events, or Homeworks—simply press and hold the **+ blue button** and type what you want to do. The AI instantly transforms your text into a properly formatted entry:
 
-- **Separation of responsibilities:** Parents can rely on the core modules (Tasks and Events) to manage their own professional and personal lives.
-- **Child monitoring:** At the same time, they can use the academic modules to follow their children’s school affairs, such as tracking homework, and exam schedules.
+- **Tasks page**: Convert your instructions into recurring or one-time tasks, e.g., “Do sport every day for 3 days at 13:22” or “Volunteer every Monday for a month.”  
+- **Events page**: Schedule meetings, trips, or appointments with full details automatically extracted, e.g., “Doctor appointment for Dental Checkup tomorrow at 10am” or “Conference from March 10–15 in Dubai.”  
+- **Homeworks page**: Create study assignments with deadlines and integrate Pomodoro timers instantly, e.g., “Math homework every Monday and Wednesday for 2 weeks” or “Study Physics for quiz tomorrow at 10am.”  
 
----
-
-## Explore Tructivity Modules: You Set the Rules
-
-Tructivity gives you complete control over what you see. Through Page Settings, you can show or hide any of the following modules based on your current life stage:
-
-**Core modules (for everyone):**
-
-- Tasks
-- Events
-
-**Specialized modules (for students and parents):**
-
-- *Homeworks* — Includes a built-in Pomodoro timer.
-- *Schedule* — For tracking deadlines and exam dates.
-- *Timetable* — A flexible visual view of your weekly routine.
-- *Subjects & Teachers* — A database for organizing contact information and academic content.
-- *Grades & Absences* — A precise tracking system for analyzing academic performance.
-
-**Note:** Tasks, Events, and Homeworks modules supports recurring entries.
+This AI-assisted workflow eliminates manual setup, supports recurring entries, and ensures everything is correctly categorized—helping students save time, focus instantly, and stay organized.
 
 ---
 
-## Why Is Tructivity Your Best Investment in Productivity?
+## Why Tructivity is the Ultimate Productivity Companion for Students
 
-- **A future-proof system:** You will never need to leave Tructivity. It evolves with you — from the classroom, to the meeting room, and all the way through the journey of parenthood.
-- **Unlimited adaptability:** You set the rules of what you show and hide, and the app executes them offering you the complete flexibility to serve your goals.
+- **A future-proof academic assistant**: Tructivity grows with you through every stage of your studies—from your first exams to university graduation.  
+- **Unlimited control and focus**: You decide which modules to show or hide, and the app adapts instantly, giving you a clean, distraction-free workspace that helps you stay on top of tasks, deadlines, and academic goals.  
 
 ---
 
 ## Available Now… and Everywhere Soon
 
-Tructivity is currently available for Android users on [Google Play](https://play.google.com/store/apps/details?id=productivity.tructivity.tructivity). Because we strongly believe in a cross-platform experience, we are actively working on a Windows release coming very soon. macOS and iPhone versions will follow, completing your unified productivity ecosystem.
+Tructivity is currently available on **Android via [Google Play](https://play.google.com/store/apps/details?id=productivity.tructivity.tructivity)**. We are actively working on a **Windows release** coming very soon, with **macOS and iPhone versions** to follow—creating a fully unified productivity ecosystem that supports your academic life anytime, anywhere.
 
 </div>
