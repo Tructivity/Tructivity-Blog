@@ -15,9 +15,9 @@ author: "Abdelhakim Ouafi"
 
 Before the steps, it's worth knowing this isn't just a nice-looking study format — it's backed by a real body of research, and some of it is specific to exactly the majors Tructivity is built for.
 
-Rosciano (2015) studied mind mapping as an active learning strategy in nursing education and found it encourages reflection, knowledge building, problem-solving, and critical thinking, with direct use in note-taking, homework, and exam preparation. Separately, Wang et al. (2014) found that mind mapping enhances visibility and logical correlation among knowledge points specifically in medical immunology, supporting divergent thinking in students.
+[Rosciano (2015)](https://www.sciencedirect.com/science/article/abs/pii/S1557308715000050), published in *Teaching and Learning in Nursing*, studied mind mapping as an active learning strategy among nursing students and found it encourages reflection, knowledge building, problem-solving, and critical thinking, with direct use in note-taking, homework, and exam preparation.
 
-The effect isn't limited to medicine. Abi-El-Mona and Abd-El-Khalick (2008) found that eighth graders using mind maps in science achieved significantly higher academic gains than students using traditional note summarization, and Balim (2013) found that mind-mapping techniques in a Science and Technology course improved academic achievement, retention, and students' perception of their own inquiry-learning skills.
+The effect isn't limited to nursing and medicine. [Abi-El-Mona and Abd-El-Khalick (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1949-8594.2008.tb17843.x), published in *School Science and Mathematics*, found that eighth graders using mind maps in science achieved significantly higher academic gains than students using traditional note summarization — independent of prior achievement level. [Balim (2013)](https://eric.ed.gov/?q=Quasi+AND+Experimental+AND+Research&pg=6&id=EJ1025182), published in *International Research in Geographical and Environmental Education*, found that mind-mapping applications in science and environment education improved academic achievement, retention, and students' own perception of their inquiry-learning skills.
 
 There's also a structural reason mind maps tend to work better than freeform notes: a commonly cited failure mode in mind mapping is creating poorly structured maps with too much information and no clear hierarchy. Tructivity's AI prompt enforces a strict structure — minimum branch counts, required depth, no vague placeholder titles — specifically to avoid that exact pitfall. You get the benefit of mind mapping without needing to be good at designing one yourself.
 
@@ -27,11 +27,13 @@ There's also a structural reason mind maps tend to work better than freeform not
 
 ### Step 1: Download the Tructivity Mind Map AI Prompt
 
-[Download the prompt here]([#](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view?usp=sharing)) — this is a pre-written instruction set that tells any AI assistant exactly how to format its output so Tructivity can read it.
+[Download the prompt here](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view?usp=sharing) — this is a pre-written instruction set that tells any AI assistant exactly how to format its output so Tructivity can read it.
 
 ### Step 2: Open a conversation with any AI assistant
 
 This works with ChatGPT, Gemini, Claude, or free alternatives like GLM, Kimi, and DeepSeek. You don't need a paid subscription to any of them to use this method.
+
+**Tip:** In our own testing, Kimi 2.6 Thinking and Claude Sonnet 4.6 have followed the formatting instructions most reliably, with noticeably fewer failed imports than other models. If you have access to either, they're a good first choice — though the method still works with any of the assistants listed above.
 
 ### Step 3: Paste the prompt as your first message
 
@@ -97,7 +99,15 @@ Yes. Copy the full text of the page and paste it in after the prompt, the same w
 **Is there a limit to how many mind maps I can create?**
 No. Since the AI generation happens outside Tructivity, there's no cap tied to Tructivity's own usage costs.
 
-**Does this work for subjects outside of science and medicine?**
-Yes. The underlying research spans nursing, medical immunology, general science education, and mathematics — but the technique applies to any subject with structured, interconnected concepts.
+**Does this work for subjects outside of nursing and science?**
+Yes. The underlying research spans nursing education, general science, and environment education — but the technique applies to any subject with structured, interconnected concepts, including pharmacy, engineering, and law.
+
+---
+
+## Sources
+
+- Rosciano, A. (2015). [The effectiveness of mind mapping as an active learning strategy among associate degree nursing students](https://www.sciencedirect.com/science/article/abs/pii/S1557308715000050). *Teaching and Learning in Nursing*, 10(2), 93–99.
+- Abi-El-Mona, I., & Abd-El-Khalick, F. (2008). [The Influence of Mind Mapping on Eighth Graders' Science Achievement](https://onlinelibrary.wiley.com/doi/10.1111/j.1949-8594.2008.tb17843.x). *School Science and Mathematics*, 108(7), 298–312.
+- Balim, A. G. (2013). [The Effect of Mind-Mapping Applications on Upper Primary Students' Success and Inquiry-Learning Skills in Science and Environment Education](https://eric.ed.gov/?q=Quasi+AND+Experimental+AND+Research&pg=6&id=EJ1025182). *International Research in Geographical and Environmental Education*.
 
 </div>
