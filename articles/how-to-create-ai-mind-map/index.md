@@ -33,7 +33,7 @@ There's also a structural reason mind maps tend to work better than freeform not
 
 This works with ChatGPT, Gemini, Claude, or free alternatives like GLM, Kimi, and DeepSeek. You don't need a paid subscription to any of them to use this method.
 
-**Tip:** In our own testing, Kimi 2.6 Thinking and Claude Sonnet 4.6 have followed the formatting instructions most reliably, with noticeably fewer failed imports than other models. If you have access to either, they're a good first choice — though the method still works with any of the assistants listed above.
+**Tip:** Kimi 2.6 Thinking and Claude Sonnet 4.6 have followed the formatting instructions most reliably, they're a good first choice — though the method still works with any of the assistants listed above.
 
 ### Step 3: Paste the prompt as your first message
 
