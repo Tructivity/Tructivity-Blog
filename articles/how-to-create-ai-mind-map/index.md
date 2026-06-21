@@ -7,7 +7,7 @@ author: "Abdelhakim Ouafi"
 
 <div class="prose lg:prose-xl dark:prose-invert">
 
-> Most apps charge you per mind map because they're paying for the AI behind it. Tructivity doesn't — because you bring your own AI. Here's exactly how to turn any text, textbook chapter, or webpage into a structured mind map, completely free, with no limit.
+> Most apps charge you per mind map because they're paying for the AI behind it. Tructivity doesn't — because you bring your own AI.
 
 ---
 
