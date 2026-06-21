@@ -1,7 +1,7 @@
 ---
 title: "How to Create Unlimited Free AI Mind Maps in Tructivity (Step-by-Step Guide)"
-date: "2026-06-20"
-category: "Guides"
+date: "2026-06-21"
+category: "Productivity"
 author: "Abdelhakim Ouafi"
 ---
 
@@ -27,7 +27,7 @@ There's also a structural reason mind maps tend to work better than freeform not
 
 ### Step 1: Download the Tructivity Mind Map AI Prompt
 
-[Download the prompt here](#) — this is a pre-written instruction set that tells any AI assistant exactly how to format its output so Tructivity can read it.
+[Download the prompt here]([#](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view?usp=sharing)) — this is a pre-written instruction set that tells any AI assistant exactly how to format its output so Tructivity can read it.
 
 ### Step 2: Open a conversation with any AI assistant
 
