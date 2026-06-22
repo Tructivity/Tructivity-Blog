@@ -1,6 +1,6 @@
 ---
 title: "7 Best Notion Alternatives for Students in 2026"
-date: "2026-06-23"
+date: "2026-06-22"
 category: "Productivity"
 author: "Abdelhakim Ouafi"
 ---
