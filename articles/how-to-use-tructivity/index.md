@@ -84,7 +84,7 @@ The distinction is intentional. Tasks are general to-dos — anything in your li
 
 All three share the same interaction pattern: single tap for the traditional form, long press for AI input. All three support categories. The separation exists so your view of each is clean — you're not filtering academic deadlines out of a personal to-do list or vice versa.
 
-The **Timeline widget** on your home screen draws from all three pages simultaneously, showing you what's coming next regardless of which type it is — so you never need to open three separate pages just to see your day.
+The **Timeline Widget** on your home screen draws from all three pages simultaneously, showing you what's coming next regardless of which type it is — so you never need to open three separate pages just to see your day.
 
 ---
 
@@ -106,7 +106,7 @@ You can hide study-free days here as well, just like in the Timetable, so the vi
 
 The Grades page supports multiple grading systems — percentage-based grading, college GPA, and other formats used by different curricula and institutions worldwide.
 
-**Setup:** begin by selecting the grading system your institution uses. Then enter your results for each subject throughout the semester — individual assignment grades, midterm scores, final exam results, whatever your system tracks.
+**Setup:** begin by selecting the grading system your institution uses. Then enter your results for each subject throughout the semester — individual assignment grades, or whatever your system tracks.
 
 Once your data is in, tap the calculate button to get your current GPA or semester average. The calculation updates as you add new results, so you always have an accurate, up-to-date picture of where you stand rather than a surprise at the end of term.
 
@@ -116,9 +116,7 @@ Tructivity tracks two semesters independently. When your first semester ends, go
 
 ## Step 8: Absences — Know Where You Stand Before It's Too Late
 
-Many courses have attendance requirements. Exceeding the absence limit means failing the course regardless of your exam performance — and it's easy to lose track across a full semester of lectures and labs.
-
-The Absences page logs every class you missed, organized by subject and day.
+Many courses have attendance requirements. Exceeding the absence limit means failing the course regardless of your exam performance — and it's easy to lose track across a full semester of lectures and labs. The Absences page logs every class you missed.
 
 **The detail view:** tap the three-dot menu at the top right and choose **Absence Details**. You'll see a full breakdown: every subject, the total number of absences for each across the semester.
 
@@ -128,7 +126,7 @@ Check this regularly — not just when you're already close to the limit. A clas
 
 ## Step 9: Mind Maps — Visualize Complex Ideas
 
-The Mind Maps page is where Tructivity does something no other student planner does.
+The Mind Maps page is where Tructivity does something no other student planner or a mind map does.
 
 You can create a mind map manually — tap to add a central concept, build branches, add sub-nodes — and the result is a visual diagram you can share with classmates as an image directly from the app. Useful for anyone. But the genuinely different capability is the AI import.
 
@@ -138,7 +136,7 @@ Tructivity doesn't generate mind maps itself — instead, it accepts a specifica
 
 The process: download the Tructivity Mind Map prompt from [this link](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view), paste it into your AI assistant as the first message, then send whatever content you want mapped — your notes on the Krebs cycle, a chapter of a textbook, the entire text of a research article. The AI returns a structured JSON output. Copy it, go to the Mind Maps page, long-press the **+** button, and your mind map appears instantly.
 
-Because the AI generation happens in the assistant you're already using, there's no usage cap and no additional cost. Free tiers of all major AI assistants work. Paid tiers produce more reliable output with fewer formatting errors.
+Because the AI generation happens in the assistant you're already using, there's no usage cap and no additional cost. Free tiers of all major AI assistants work.
 
 You can then share the finished mind map two ways: export the JSON file so a classmate who has Tructivity can import and view the interactive map, or share it as an image for anyone who doesn't have the app.
 
