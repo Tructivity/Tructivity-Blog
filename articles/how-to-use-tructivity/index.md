@@ -138,7 +138,9 @@ You can create a mind map manually — tap to add a central concept, build branc
 
 Tructivity doesn't generate mind maps itself — instead, it accepts a specifically structured JSON file that any AI assistant can produce. This means you can use whatever AI you already have access to: ChatGPT, Gemini, Claude, DeepSeek, Kimi, or any other.
 
-The process: download the Tructivity Mind Map prompt from [this link](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view), paste it into your AI assistant as the first message, then send whatever content you want mapped — your notes on the Krebs cycle, a chapter of a textbook, the entire text of a research article. The AI returns a structured JSON output. Copy it, go to the Mind Maps page, long-press the **+** button, and your mind map appears instantly.
+The process: download the Tructivity Mind Map prompt from [this link](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view), paste it into your AI assistant as the first message, then send whatever content you want mapped — your notes on the Krebs cycle, a chapter of a textbook, the entire text of a research article.
+
+The AI returns a structured JSON output. Copy it, go to the Mind Maps page, long-press the **+** button, and your mind map appears instantly.
 
 Because the AI generation happens in the assistant you're already using, there's no usage cap and no additional cost. Free tiers of all major AI assistants work.
 
