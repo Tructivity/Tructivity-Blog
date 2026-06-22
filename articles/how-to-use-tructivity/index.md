@@ -15,11 +15,9 @@ author: "Abdelhakim Ouafi"
 
 The single biggest mistake new users make is opening Tructivity, going straight to Tasks or Timetable, and then hitting a form that asks for a subject or teacher they haven't added yet.
 
-Tructivity is built around connected data. The Teachers page feeds the Subjects page. The Subjects page feeds the Timetable. The Timetable feeds the Absences tracker. Set things up in order and every form fills itself in two taps. Skip the order and everything feels manual.
+Tructivity is built around connected data. The Teachers page feeds the Subjects page. The Subjects page feeds the the rest of the app. Set things up in order and every form fills itself in two taps. Skip the order and everything feels manual.
 
-The correct setup sequence is: **Teachers → Subjects → Timetable → everything else.**
-
-Start there, and the rest of the app feels effortless.
+The correct setup sequence is: **Teachers → Subjects → Rest of the app.**
 
 ---
 
