@@ -25,7 +25,7 @@ The correct setup sequence is: **Teachers → Subjects → Rest of the app.**
 
 The Teachers page is where you store your professors' and instructors' contact details: name, email, phone number, and website.
 
-You might wonder why this is its own page rather than just a field inside the timetable. The answer is efficiency: a teacher rarely teaches only one subject. By storing them once in the Teachers page, you can attach them to as many subjects as you need — and every form that references a teacher throughout the app pulls from this central list. One entry, used everywhere.
+You might wonder why this is its own page. The answer is efficiency: a teacher rarely teaches only one subject. By storing them once in the Teachers page, every form that references a teacher throughout the app pulls from this central list. One entry, used everywhere.
 
 **What to add:** for each teacher, enter their name and whatever contact details you actually use. Email is the most consistently useful — it means you can reach them directly from the app without hunting for an address mid-semester.
 
@@ -39,7 +39,9 @@ The Subjects page is where the data starts connecting. When you create a subject
 
 That combination — subject, teacher, classroom — is stored as a single record.
 
-Why does this matter? Because when you build your timetable and tap the subject field, a list of everything you've added in Subjects appears. Select one, and the teacher and classroom fields fill in automatically. No retyping, no remembering. This is the payoff for setting up Teachers and Subjects first: the rest of the app becomes dramatically faster to use.
+Why does this matter? Because when you build your timetable for example (and many pages) and tap the subject field, a list of everything you've added in Subjects appears. Select one, and the teacher and classroom fields fill in automatically. No retyping, no remembering. 
+
+This is the payoff for setting up Teachers and Subjects first: the rest of the app becomes dramatically faster to use.
 
 Go through your full course list and add every subject before moving on.
 
