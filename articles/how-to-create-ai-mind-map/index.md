@@ -17,9 +17,13 @@ Before the steps, it's worth knowing this isn't just a nice-looking study format
 
 [Rosciano (2015)](https://www.sciencedirect.com/science/article/abs/pii/S1557308715000050), published in *Teaching and Learning in Nursing*, studied mind mapping as an active learning strategy among nursing students and found it encourages reflection, knowledge building, problem-solving, and critical thinking, with direct use in note-taking, homework, and exam preparation.
 
-The effect isn't limited to nursing and medicine. [Abi-El-Mona and Abd-El-Khalick (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1949-8594.2008.tb17843.x), published in *School Science and Mathematics*, found that eighth graders using mind maps in science achieved significantly higher academic gains than students using traditional note summarization — independent of prior achievement level. [Balim (2013)](https://eric.ed.gov/?q=Quasi+AND+Experimental+AND+Research&pg=6&id=EJ1025182), published in *International Research in Geographical and Environmental Education*, found that mind-mapping applications in science and environment education improved academic achievement, retention, and students' own perception of their inquiry-learning skills.
+The effect isn't limited to nursing and medicine. [Abi-El-Mona and Abd-El-Khalick (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1949-8594.2008.tb17843.x), published in *School Science and Mathematics*, found that eighth graders using mind maps in science achieved significantly higher academic gains than students using traditional note summarization — independent of prior achievement level.
 
-There's also a structural reason mind maps tend to work better than freeform notes: a commonly cited failure mode in mind mapping is creating poorly structured maps with too much information and no clear hierarchy. Tructivity's AI prompt enforces a strict structure — minimum branch counts, required depth, no vague placeholder titles — specifically to avoid that exact pitfall. You get the benefit of mind mapping without needing to be good at designing one yourself.
+[Balim (2013)](https://eric.ed.gov/?q=Quasi+AND+Experimental+AND+Research&pg=6&id=EJ1025182), published in *International Research in Geographical and Environmental Education*, found that mind-mapping applications in science and environment education improved academic achievement, retention, and students' own perception of their inquiry-learning skills.
+
+There's also a structural reason mind maps tend to work better than freeform notes: a commonly cited failure mode in mind mapping is creating poorly structured maps with too much information and no clear hierarchy.
+
+Tructivity's AI prompt enforces a strict structure — minimum branch counts, required depth, no vague placeholder titles — specifically to avoid that exact pitfall. You get the benefit of mind mapping without needing to be good at designing one yourself.
 
 ---
 
@@ -73,7 +77,9 @@ One practical note: paid tiers of these AI services generally produce more relia
 
 You're not limited to your own notes. Copy the full text of any webpage — a research article, a textbook excerpt hosted online, a detailed explainer — and paste it in after the prompt, the same way you would your own notes.
 
-This is particularly useful for content-heavy majors where dense reading material is constant: medicine, pharmacy, engineering, law, and any field where a single article or chapter contains more interconnected detail than is easy to hold in your head while reading linearly. Turning that material into a branching visual structure makes the relationships between concepts immediately visible — which is exactly the mechanism the nursing and medical immunology research above points to.
+This is particularly useful for content-heavy majors where dense reading material is constant: medicine, pharmacy, engineering, law, and any field where a single article or chapter contains more interconnected detail than is easy to hold in your head while reading linearly.
+
+Turning that material into a branching visual structure makes the relationships between concepts immediately visible — which is exactly the mechanism the nursing and medical immunology research above points to.
 
 ---
 
