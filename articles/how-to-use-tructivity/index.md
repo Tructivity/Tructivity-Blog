@@ -51,13 +51,13 @@ Go through your full course list and add every subject before moving on.
 
 Once your subjects are in place, building your timetable is fast.
 
-Tap the **+** button to add a class slot. Choose the subject from your list, pick the day and time, and the teacher and classroom fill themselves in from the data you already entered. Repeat for every class in your week.
+Tap the box where to add a class slot. Choose the subject from your list, and the teacher and classroom fill themselves in from the data you already entered, pick the colour, then hit save. Repeat for every class in your week.
 
 **The AI import shortcut:** if your university gave you a printed timetable or you have a screenshot of your schedule from a student portal, you don't need to enter it manually at all. Tap the three-dot menu at the top right, choose **Import Timetable**, and select a photo of your schedule. The AI reads it and fills in your timetable automatically.
 
 It handles printed documents, screenshots, even handwritten schedules. After the import, scroll through and verify each entry — if the AI placed a class in the wrong day or time slot, tap and hold any entry to drag and drop it to the correct position.
 
-**Hiding days you don't attend:** if you never have classes on Wednesdays, go to Settings → Page Settings and hide Wednesday from the timetable view. The display adapts to your actual week rather than showing five empty columns.
+**Hiding days you don't attend:** if you never have classes on Wednesdays, Tap the three-dot menu again at the top right, and hide Wednesday from the timetable view. The display adapts to your actual week rather than showing five empty columns.
 
 ---
 
