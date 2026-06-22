@@ -168,6 +168,6 @@ The Settings page is where you tailor Tructivity to exactly how you study.
 
 Every feature in Tructivity was built to solve a specific problem students actually face — not to look impressive in a list. Teachers and Subjects eliminate repetitive typing. The timetable AI removes the most tedious part of starting a new semester. The 8 PM notification means you're never blindsided by tomorrow. The screen-off Pomodoro means your phone isn't a distraction while you study. The mind maps mean you're not paying extra for a feature you already have access to through your AI assistant.
 
-You now know how every page works and why it exists. The rest is just using it. If you run into anything unexpected or have a feature you wish existed, the feedback button on Google Play is always open — Tructivity is built by one person who reads every message.
+You now know how every page works and why it exists. The rest is just using it. If you run into anything unexpected or have a feature you wish existed, the feedback button is always open — Tructivity is built by one person who reads every message.
 
 </div>
