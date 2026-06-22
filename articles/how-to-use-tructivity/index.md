@@ -118,7 +118,7 @@ Many courses have attendance requirements. Exceeding the absence limit means fai
 
 The Absences page logs every class you missed, organized by subject and day.
 
-**The detail view:** tap the three-dot menu at the top right and choose **Absence Details**. You'll see a full breakdown: every subject, the total number of absences for each across the semester, and a clear picture of which classes you're approaching the limit on.
+**The detail view:** tap the three-dot menu at the top right and choose **Absence Details**. You'll see a full breakdown: every subject, the total number of absences for each across the semester.
 
 Check this regularly — not just when you're already close to the limit. A class you missed in week two can combine with a sick week in week nine to create a problem you didn't see coming.
 
@@ -134,7 +134,7 @@ You can create a mind map manually — tap to add a central concept, build branc
 
 Tructivity doesn't generate mind maps itself — instead, it accepts a specifically structured JSON file that any AI assistant can produce. This means you can use whatever AI you already have access to: ChatGPT, Gemini, Claude, DeepSeek, Kimi, or any other.
 
-The process: download the Tructivity Mind Map prompt from [this link](https://tructivity.com/blog?post=how-to-create-ai-mind-map), paste it into your AI assistant as the first message, then send whatever content you want mapped — your notes on the Krebs cycle, a chapter of a textbook, the entire text of a research article. The AI returns a structured JSON output. Copy it, go to the Mind Maps page, long-press the **+** button, and your mind map appears instantly.
+The process: download the Tructivity Mind Map prompt from [this link](https://drive.google.com/file/d/1kHOEbW4GrJOtrGKmUjQ9fPJUrf6YQjhi/view), paste it into your AI assistant as the first message, then send whatever content you want mapped — your notes on the Krebs cycle, a chapter of a textbook, the entire text of a research article. The AI returns a structured JSON output. Copy it, go to the Mind Maps page, long-press the **+** button, and your mind map appears instantly.
 
 Because the AI generation happens in the assistant you're already using, there's no usage cap and no additional cost. Free tiers of all major AI assistants work. Paid tiers produce more reliable output with fewer formatting errors.
 
@@ -150,19 +150,17 @@ The Settings page is where you tailor Tructivity to exactly how you study.
 
 **Page Settings:** any page you don't use can be hidden. If your institution doesn't track absences formally, hide the Absences page. If you're using Tructivity primarily as a task manager outside of the school year, hide the academic pages entirely and it becomes a clean, personal productivity app. Nothing is deleted — hidden pages can always be restored. This is also where you control which days appear in the Timetable and Schedule views.
 
-**Security:** you can lock Tructivity with a PIN or biometric authentication (fingerprint or face unlock). Useful if your device is shared or if you simply want an extra layer of privacy on your academic and personal data.
+**Security:** you can lock Tructivity with a PIN or biometric authentication (fingerprint). Useful if your device is shared or if you simply want an extra layer of privacy on your academic and personal data.
 
 **Semester switching:** Tructivity manages two semesters. When the academic calendar turns, go to Settings and switch to Semester 2. Semester 1 data is preserved in full and accessible whenever you switch back.
 
-**Dark mode:** toggle it here. Tructivity adapts the full interface — every page, every form, every widget — to your preferred display mode.
+**Dark mode:** toggle it here. Tructivity adapts the full interface — every page, every form  — to your preferred display mode.
 
 ---
 
 ## The Bigger Picture: How It All Fits Together
 
 Most students start with the feature they notice first — usually Tasks or Timetable — and discover the rest gradually. That works. But the full power of the app becomes clear when the pages start working together.
-
-Your Teachers feed your Subjects. Your Subjects feed your Timetable. Your Timetable connects to your Absences. Your Schedule sends the notification. Your Grades track the results of all of it. Your Mind Maps help you understand the material you're being tested on. Your widgets surface what matters without requiring you to open anything.
 
 The goal was never to build another app to check. It was to build something that gives you what you need without demanding your attention — that works quietly in the background so you can focus on the actual work of being a student.
 
