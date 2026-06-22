@@ -84,6 +84,10 @@ The distinction is intentional. Tasks are general to-dos — anything in your li
 
 All three share the same interaction pattern: single tap for the traditional form, long press for AI input. All three support categories. The separation exists so your view of each is clean — you're not filtering academic deadlines out of a personal to-do list or vice versa.
 
+Long-press any homework item to launch the built-in Pomodoro timer. The default is 25 minutes of focused work followed by a 5-minute break — the classic Pomodoro rhythm — but both durations are fully editable if your study style calls for something different.
+
+Once it starts, lock your phone. The timer runs as a persistent notification, so you can press the side button of your phone to check your progress on the lock screen without unlocking the device or keeping the display on. Your battery stays healthy, your screen stays dark, and your focus stays intact.
+
 The **Timeline Widget** on your home screen draws from all three pages simultaneously, showing you what's coming next regardless of which type it is — so you never need to open three separate pages just to see your day.
 
 ---
@@ -158,12 +162,10 @@ The Settings page is where you tailor Tructivity to exactly how you study.
 
 ---
 
-## The Bigger Picture: How It All Fits Together
+## You're Ready
 
-Most students start with the feature they notice first — usually Tasks or Timetable — and discover the rest gradually. That works. But the full power of the app becomes clear when the pages start working together.
+Every feature in Tructivity was built to solve a specific problem students actually face — not to look impressive in a list. Teachers and Subjects eliminate repetitive typing. The timetable AI removes the most tedious part of starting a new semester. The 8 PM notification means you're never blindsided by tomorrow. The screen-off Pomodoro means your phone isn't a distraction while you study. The mind maps mean you're not paying extra for a feature you already have access to through your AI assistant.
 
-The goal of Tructivity was never to build another app to check. It was to build something that gives you what you need without demanding your attention — that works quietly in the background so you can focus on the actual work of being a student.
-
-That's Tructivity. And now you know exactly how to use it.
+You now know how every page works and why it exists. The rest is just using it. If you run into anything unexpected or have a feature you wish existed, the feedback button on Google Play is always open — Tructivity is built by one person who reads every message.
 
 </div>
