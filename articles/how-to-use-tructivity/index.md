@@ -148,7 +148,7 @@ The full step-by-step guide, including tips on which AI assistants produce the m
 
 The Settings page is where you tailor Tructivity to exactly how you study.
 
-**Page Settings:** any page you don't use can be hidden. If your institution doesn't track absences formally, hide the Absences page. If you're using Tructivity primarily as a task manager outside of the school year, hide the academic pages entirely and it becomes a clean, personal productivity app. Nothing is deleted — hidden pages can always be restored. This is also where you control which days appear in the Timetable and Schedule views.
+**Page Settings:** any page you don't use can be hidden. If your institution doesn't track absences formally, hide the Absences page. Nothing is deleted — hidden pages can always be restored.
 
 **Security:** you can lock Tructivity with a PIN or biometric authentication (fingerprint). Useful if your device is shared or if you simply want an extra layer of privacy on your academic and personal data.
 
@@ -162,7 +162,7 @@ The Settings page is where you tailor Tructivity to exactly how you study.
 
 Most students start with the feature they notice first — usually Tasks or Timetable — and discover the rest gradually. That works. But the full power of the app becomes clear when the pages start working together.
 
-The goal was never to build another app to check. It was to build something that gives you what you need without demanding your attention — that works quietly in the background so you can focus on the actual work of being a student.
+The goal of Tructivity was never to build another app to check. It was to build something that gives you what you need without demanding your attention — that works quietly in the background so you can focus on the actual work of being a student.
 
 That's Tructivity. And now you know exactly how to use it.
 
