@@ -45,6 +45,10 @@ This is the payoff for setting up Teachers and Subjects first: the rest of the a
 
 Go through your full course list and add every subject before moving on.
 
+**Optional but recommended**: once you've finished adding all your teachers and subjects, consider hiding both pages via **Settings → Page Settings**. You rarely need to add new entries mid-semester, and keeping them visible just adds clutter to the side menu.
+
+Hidden pages continue working normally in the background — your data stays connected to every form throughout the app. You can always unhide them later if you need to make changes.
+
 ---
 
 ## Step 3: Timetable — Your Weekly Class Schedule
@@ -58,6 +62,8 @@ Tap the box where to add a class slot. Choose the subject from your list, and th
 It handles printed documents, screenshots, even handwritten schedules. After the import, scroll through and verify each entry — if the AI placed a class in the wrong day or time slot, tap and hold any entry to drag and drop it to the correct position.
 
 **Hiding days you don't attend:** if you never have classes on Wednesdays, Tap the three-dot menu again at the top right, and hide Wednesday from the timetable view. The display adapts to your actual week rather than showing five empty columns.
+
+The **Timetable Widget** puts your weekly class schedule directly on your home screen. Glance at it between classes, check what room you're in next, or confirm tomorrow's schedule — all without opening the app, and it updates in real time as you make changes inside the app.
 
 ---
 
@@ -114,7 +120,7 @@ The Grades page supports multiple grading systems — percentage-based grading, 
 
 Once your data is in, tap the calculate button to get your current GPA or semester average. The calculation updates as you add new results, so you always have an accurate, up-to-date picture of where you stand rather than a surprise at the end of term.
 
-Tructivity tracks two semesters independently. When your first semester ends, go to **Settings** and swap to Semester 2. Your first semester data is preserved — you can always switch back to review it.
+Tructivity tracks two semesters independently. The semester switch affects the three pages most tied to the academic calendar: **Absences**, **Subjects**, and **Grades**. When your first semester ends, go to Settings and swap to Semester 2 to start fresh on those pages. Your Semester 1 data is fully preserved — switch back at any time to review it.
 
 ---
 
@@ -161,6 +167,11 @@ The Settings page is where you tailor Tructivity to exactly how you study.
 **Semester switching:** Tructivity manages two semesters. When the academic calendar turns, go to Settings and switch to Semester 2. Semester 1 data is preserved in full and accessible whenever you switch back.
 
 **Dark mode:** toggle it here. Tructivity adapts the full interface — every page, every form  — to your preferred display mode.
+
+## Step 11: Disable Battery Optimization — So Notifications Actually Arrive
+Android's battery optimization can silently block background apps from sending notifications, including Tructivity's 8 PM schedule summary.
+
+This is a one-time step and only affects Tructivity's ability to wake up in the background to send you notifications — it has no meaningful impact on your overall battery life.
 
 ---
 
